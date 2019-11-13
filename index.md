@@ -13,9 +13,9 @@ Welcome to the homepage of Imperial College London machine learning tutorials. T
 
 -----------
 
-## Title : Structured prediction
+### Title : Structured prediction
 
-## Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
+#### Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
 
 Speaker's Bio : In 2008 Dr. Carlo Ciliberto graduated in Mathematics at the University of Roma Tre, Rome, Italy and in 2012 he obtained a PhD in humanoid robotics, computer vision and machine learning at the Italian Institute of Technology, Genova, Italy. He was a Postdoctoral fellow in Poggio Lab at the Massachusetts Institute of Technology from 2012 to 2016 and later a Research Associate at UCL from 2017-2018, where he is now Honorary Lecturer. In 2018 he became a Lecturer at the EEE Department at Imperial College.  
 
@@ -24,9 +24,9 @@ Abstract:  Modern machine learning offers powerful tools to address supervised p
 
 -----------
 
-## Title : Advances in machine learning for molecules
+### Title : Advances in machine learning for molecules
 
-## Speaker : [Dr. José Miguel Hernández-Lobato](https://jmhl.org)
+#### Speaker : [Dr. José Miguel Hernández-Lobato](https://jmhl.org)
 
 Speaker's Bio : Since Sep 2016, Dr Hernández-Lobato is a Lecturer in Machine Learning at
 the Department of Engineering in the University of Cambridge, UK. Before
