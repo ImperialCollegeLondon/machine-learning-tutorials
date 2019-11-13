@@ -8,10 +8,12 @@ Welcome to the homepage of Imperial College London machine learning tutorials. T
 
 | Date      |  Venue  | Time | Title | Speaker
 |----------:|:---------:|------|-------|-------|
-| 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Structured Prediction | [Dr. Carlo Ciliberto](https://cciliber.github.io/)|
+| 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Structured prediction | [Dr. Carlo Ciliberto](https://cciliber.github.io/)|
 | 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Advances in machine learning for molecules | [Dr. José Miguel Hernández-Lobato](https://jmhl.org)|
 
 -----------
+
+Title : Structured prediction
 
 Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
 
@@ -21,6 +23,8 @@ Abstract:  Modern machine learning offers powerful tools to address supervised p
 
 
 -----------
+
+Title : Advances in machine learning for molecules
 
 Speaker : [Dr. José Miguel Hernández-Lobato](https://jmhl.org)
 
