@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to the homepage of Imperial College London machine learning tutorials. The machine learning tutorials are sponsored by PROWLER.io, Amazon and Microsoft Research and supported by the Machine Learning Initiative at Imperial College London. 
+Welcome to the homepage of Imperial College London machine learning tutorials. The machine learning tutorials are supported by the Machine Learning Initiative at Imperial College London and the current organizers are [Viktoriia Sharmanska](https://ilovevisiondata.wixsite.com/viktoriia) and [K S Sesh Kumar](https://seshkumar.github.io/).
 
 ## Schedule 2019-2020
 
