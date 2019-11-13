@@ -1,0 +1,7 @@
+title: Machine learning reading group
+description: Imperial College London
+markdown: kramdown
+theme: jekyll-theme-slate
+exclude:
+  - Gemfile
+  - Gemfile.lock
