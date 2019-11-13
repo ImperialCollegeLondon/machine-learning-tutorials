@@ -5,6 +5,17 @@ layout: default
 Welcome to the homepage of Imperial College London machine learning tutorials.
 
 ## Schedule
+| Date     |  Venue  | Time | Title | Speaker
+|----------|---------|------|-------|-------|
+| 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Advances in machine learning for molecules | [Dr. José Miguel Hernández-Lobato](https://jmhl.org)|
+
+
+
+Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
+
+Speaker Bio : In 2008 Dr. Carlo Ciliberto graduated in Mathematics at the University of Roma Tre, Rome, Italy and in 2012 he obtained a PhD in humanoid robotics, computer vision and machine learning at the Italian Institute of Technology, Genova, Italy. He was a Postdoctoral fellow in Poggio Lab at the Massachusetts Institute of Technology from 2012 to 2016 and later a Research Associate at UCL from 2017-2018, where he is now Honorary Lecturer. In 2018 he became a Lecturer at the EEE Department at Imperial College.  
+
+Abstract:  
 
 | Date          |  Venue |
 |--------------:|---------|
