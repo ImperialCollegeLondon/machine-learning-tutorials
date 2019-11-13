@@ -5,8 +5,9 @@ layout: default
 Welcome to the homepage of Imperial College London machine learning tutorials.
 
 ## Schedule
-| Date     |  Venue  | Time | Title | Speaker
-|----------|---------|------|-------|-------|
+
+| Date      |  Venue  | Time | Title | Speaker
+|----------:|:---------:|------|-------|-------|
 | 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Advances in machine learning for molecules | [Dr. José Miguel Hernández-Lobato](https://jmhl.org)|
 
 
