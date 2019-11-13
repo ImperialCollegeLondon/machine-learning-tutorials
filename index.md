@@ -13,7 +13,7 @@ Welcome to the homepage of Imperial College London machine learning tutorials. T
 
 -----------
 
-Title : Structured prediction
+###Title : Structured prediction
 
 Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
 
@@ -24,7 +24,7 @@ Abstract:  Modern machine learning offers powerful tools to address supervised p
 
 -----------
 
-Title : Advances in machine learning for molecules
+####Title : Advances in machine learning for molecules
 
 Speaker : [Dr. José Miguel Hernández-Lobato](https://jmhl.org)
 
