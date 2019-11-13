@@ -4,26 +4,23 @@ layout: default
 
 Welcome to the homepage of Imperial College London machine learning tutorials.
 
-## Schedule
+## Schedule 2019-2020
 
 | Date      |  Venue  | Time | Title | Speaker
 |----------:|:---------:|------|-------|-------|
+| 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Structured Prediction | [Dr. Carlo Ciliberto](https://cciliber.github.io/)|
 | 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Advances in machine learning for molecules | [Dr. José Miguel Hernández-Lobato](https://jmhl.org)|
 
-
+-----------
 
 Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
 
 Speaker Bio : In 2008 Dr. Carlo Ciliberto graduated in Mathematics at the University of Roma Tre, Rome, Italy and in 2012 he obtained a PhD in humanoid robotics, computer vision and machine learning at the Italian Institute of Technology, Genova, Italy. He was a Postdoctoral fellow in Poggio Lab at the Massachusetts Institute of Technology from 2012 to 2016 and later a Research Associate at UCL from 2017-2018, where he is now Honorary Lecturer. In 2018 he became a Lecturer at the EEE Department at Imperial College.  
 
-Abstract:  
-
-| Date          |  Venue |
-|--------------:|---------|
-| 23/10/19      |Huxley Building, LT 145 |
+Abstract:  Modern machine learning offers powerful tools to address supervised problems with linear output spaces (e.g. scalar or vector-valued regression). However, problems with non-linear (and often non-convex or discrete) output spaces are becoming increasingly common. Examples include image segmentation or captioning, speech recognition, manifold regression, trajectory planning, protein folding, prediction of probability distributions or ranking to name a few. These settings are often referred to as "structured prediction" problems, since they require to deal with output spaces that have a complex structure, such as: strings, graphs, images, sequences, manifolds etc. In this tutorial we will introduce the main strategies used to address structured prediction problems. In paritcular we will study: 1) likelihood estimation methods, which are extremely versatile and can be applied to many structured output spaces and loss functions; 2) Surrogate approaches, which need additional care when tailored to a structured problem, but usually lead for tight theoretical characterization of the resulting estimators, namely universal consistency and learning rates. Finally, we will look at recent methods that find a synthesis of these two strategies to achieve both flexibility and soundess of the corresponding algorithms. 
 
 
-
+-----------
 
 Speaker : [Dr. José Miguel Hernández-Lobato](https://jmhl.org)
 
