@@ -32,7 +32,7 @@ Part 3: Complete methods, which combine unsound and incomplete methods to provid
 
 -----------
 
-### Title : Kernel methods for hypothesis testing and sample generation 
+### Title : [Kernel methods for hypothesis testing and sample generation](https://imperiallondon-my.sharepoint.com/:b:/g/personal/vsharman_ic_ac_uk/Eah-FYTlYrJOm_xROMnBi2IBFsaMKY3QRGxMQEBRL6ScIg?e=15FSlX)
 
 #### Speaker : [Prof. Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)
 
@@ -42,7 +42,7 @@ Abstract: In this tutorial, I will provide an introduction to distribution embed
 
 -----------
 
-### Title : Approximate Kernel Methods, Embeddings, and Aggregates
+### Title : [Approximate Kernel Methods, Embeddings, and Aggregates](http://www.stats.ox.ac.uk/~sejdinov/talks/pdf/2018-11-28_imperialtutorial.pdf)
 
 #### Speaker : [Dr. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/)
 
@@ -52,7 +52,7 @@ Abstract: Kernel embeddings of distributions and the Maximum Mean Discrepancy (M
 
 -----------
 
-### Title : Bandit Algorithms and Reinforcement Learning 
+### Title : [Bandit Algorithms and Reinforcement Learning](https://imperiallondon-my.sharepoint.com/:b:/g/personal/vsharman_ic_ac_uk/EXnK_RWB58tLi8VJgZvpkFMBZqLsUbqaVDxmSq9DxNplVw?e=wK9lAm)
 
 #### Speaker : [Dr. Tor Lattimore](https://tor-lattimore.com/)
 
