@@ -3,6 +3,7 @@ layout: default
 ---
 
 Welcome to the homepage of Imperial College London machine learning tutorials. The machine learning tutorials are supported by the Machine Learning Initiative at Imperial College London and the current organizers are [Dr. Viktoriia Sharmanska](https://ilovevisiondata.wixsite.com/viktoriia) and [Dr. K S Sesh Kumar](https://seshkumar.github.io/).
+
 Please find the archives of past tutorials [here](https://imperialcollegelondon.github.io/machine-learning-tutorials/past).
 
 ## Schedule 2019-2020
