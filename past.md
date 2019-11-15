@@ -15,7 +15,7 @@ These are the archives of past tutorials.
 
 -----------
 
-### Title : Neural Network Verification
+### Title : [Neural Network Verification](http://mpawankumar.info/tutorials/vmcai2019/index.html)
 
 #### Speaker : [Dr. M Pawan Kumar](https://mpawankumar.info/)
 
