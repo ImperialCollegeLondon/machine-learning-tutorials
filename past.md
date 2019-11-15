@@ -9,9 +9,9 @@ These are the archives of past tutorials.
 | Date      |  Venue  | Time | Title | Speaker
 |----------:|:---------:|------|-------|-------|
 | 13/03/19 |Huxley Building, LT 145 | 14:00 - 16:00 | [Neural Network Verification](http://mpawankumar.info/tutorials/vmcai2019/index.html)| [Dr. M Pawan Kumar](https://mpawankumar.info/)|
-| 27/02/19 |Huxley Building, LT 145 | 14:00 - 16:00 | [Kernel methods for hypothesis testing and sample generation] (https://imperiallondon-my.sharepoint.com/:b:/g/personal/vsharman_ic_ac_uk/Eah-FYTlYrJOm_xROMnBi2IBFsaMKY3QRGxMQEBRL6ScIg?e=15FSlX)| [Prof. Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)|
+| 27/02/19 |Huxley Building, LT 145 | 14:00 - 16:00 | [Kernel methods for hypothesis testing and sample generation](https://imperiallondon-my.sharepoint.com/:b:/g/personal/vsharman_ic_ac_uk/Eah-FYTlYrJOm_xROMnBi2IBFsaMKY3QRGxMQEBRL6ScIg?e=15FSlX)| [Prof. Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)|
 | 28/11/18 |Huxley Building, LT 145 | 14:00 - 16:00 | [Approximate Kernel Methods, Embeddings, and Aggregates](http://www.stats.ox.ac.uk/~sejdinov/talks/pdf/2018-11-28_imperialtutorial.pdf)| [Dr. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/)|
-| 07/11/18 |Huxley Building, LT 145 | 14:00 - 16:00 | [Bandit Algorithms and Reinforcement Learning] (https://imperiallondon-my.sharepoint.com/:b:/g/personal/vsharman_ic_ac_uk/EXnK_RWB58tLi8VJgZvpkFMBZqLsUbqaVDxmSq9DxNplVw?e=wK9lAm)| [Dr. Tor Lattimore](https://tor-lattimore.com/)|
+| 07/11/18 |Huxley Building, LT 145 | 14:00 - 16:00 | [Bandit Algorithms and Reinforcement Learning](https://imperiallondon-my.sharepoint.com/:b:/g/personal/vsharman_ic_ac_uk/EXnK_RWB58tLi8VJgZvpkFMBZqLsUbqaVDxmSq9DxNplVw?e=wK9lAm)| [Dr. Tor Lattimore](https://tor-lattimore.com/)|
 
 -----------
 
