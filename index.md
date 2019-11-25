@@ -10,12 +10,12 @@ The list of past tutorials may be found [here](https://imperialcollegelondon.git
 
 | Date      |  Venue  | Time | Title | Speaker
 |----------:|:---------:|------|-------|-------|
-| 20/11/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Structured prediction | [Dr. Carlo Ciliberto](https://cciliber.github.io/)|
+| 20/11/19 |Huxley Building, LT 145 | 14:00 - 16:00 | [Structured prediction](./presentations/lecture_surrogate_methods_Carlo_Ciliberto.pdf) | [Dr. Carlo Ciliberto](https://cciliber.github.io/)|
 | 23/10/19 |Huxley Building, LT 145 | 14:00 - 16:00 | Advances in machine learning for molecules | [Dr. José Miguel Hernández-Lobato](https://jmhl.org)|
 
 -----------
 
-### Title : Structured prediction
+### Title : [Structured prediction](./presentations/lecture_surrogate_methods_Carlo_Ciliberto.pdf)
 
 #### Speaker : [Dr. Carlo Ciliberto](https://cciliber.github.io/)
 
